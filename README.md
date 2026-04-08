@@ -1,4 +1,4 @@
-# Google-Cloud-Gen-AI-Academy-APAC-Dhiraj
+# Google-Cloud-Gen-AI-Academy-APAC-Dhiraj Amin
 Here’s a **complete, clean, professional `README.md`** for your project 👇
 
 ---
